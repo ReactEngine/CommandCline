@@ -11,7 +11,7 @@ For more details, see http://strong-pm.io and http://loopback.io.
 
 It can be installed with:
 
-    npm install -g commandcline
+    npm install -g reactEngine-cline
 
 
 ## Resources
