@@ -1,6 +1,6 @@
-# rec -- StrongLoop Controller
+# rec -- reactEngine Controller
 
-`rec` is the command shell for the StrongLoop Process Manager, strong-pm, and
+`rec` is the command shell for the reactEngine Process Manager, strong-pm, and
 the LoopBack framework.
 
 It includes both a CLI and a GUI.
@@ -11,7 +11,7 @@ For more details, see http://strong-pm.io and http://loopback.io.
 
 It can be installed with:
 
-    npm install -g strongloop
+    npm install -g commandcline
 
 
 ## Resources
@@ -40,9 +40,9 @@ Options:
 
 Commands:
 
-  arc: StrongLoop GUI, an alternative to the CLI
+  arc: reactEngine GUI, an alternative to the CLI
 
-    Launch the StrongLoop GUI, a graphical alternative to the `loopback`,
+    Launch the reactEngine GUI, a graphical alternative to the `loopback`,
     `build`, `deploy`, and `pmctl` commands, that also offers run-time
     profiling and debugging.
 
@@ -65,7 +65,7 @@ Commands:
 
   deploy: deploy a node application package
 
-    Deploy an application to the StrongLoop process manager (see `pm-install`
+    Deploy an application to the reactEngine process manager (see `pm-install`
     command), or to any PaaS that can accept a `git push` of a node
     application.
 
@@ -74,7 +74,7 @@ Commands:
     Run-time remote control of clustering, profiling, logging, restart, etc.
     See the `pm-install` and `pm` commands.
 
-  pm-install: install the StrongLoop process manager
+  pm-install: install the reactEngine process manager
 
     The process manager hosts applications, allowing them to be deployed,
     re-deployed, controlled, and monitored, and for application metrics and
@@ -113,7 +113,7 @@ tooling and integrations with StrongLoop features:
 
 ## License
 
-strongloop uses a dual license model.
+reactEngine uses a dual license model.
 
 You may use this library under the terms of the [Artistic 2.0 license][],
 or under the terms of the [StrongLoop Subscription Agreement][].
