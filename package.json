@@ -1,5 +1,5 @@
 {
-  "name": "reactEngine-cline",
+  "name": "CommandCline",
   "version": "6.0.0",
   "description": "reactEngine Command Line Tools",
   "homepage": "http://www.strongloop.com",
@@ -80,6 +80,7 @@
     "async": "^0.9.0",
     "debug": "^2.1.0",
     "generator-loopback": "1.x",
+    "generator-reactengine": "0.0.4",
     "loopback-sdk-angular-cli": "2.x",
     "node-inspector": "~0.7.0",
     "nodefly-register": "~0.3.2",
@@ -95,7 +96,9 @@
     "strong-registry": "^1.0.0",
     "strong-start": "^1.1.0",
     "strong-supervisor": "^3.0.0",
-    "which": "^1.1.1"
+    "which": "^1.1.1",
+    "yeoman-generator": "^0.23.3",
+    "yo": "^1.8.3"
   },
   "devDependencies": {
     "eslint": "^1.1.0",
