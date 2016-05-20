@@ -80,7 +80,7 @@
     "async": "^0.9.0",
     "debug": "^2.1.0",
     "generator-loopback": "1.x",
-    "generator-reactengine": "0.0.4",
+    "generator-reactengine": "0.0.7",
     "loopback-sdk-angular-cli": "2.x",
     "node-inspector": "~0.7.0",
     "nodefly-register": "~0.3.2",
