@@ -1,6 +1,6 @@
 {
   "name": "CommandCline",
-  "version": "6.0.0",
+  "version": "6.0.1",
   "description": "reactEngine Command Line Tools",
   "homepage": "http://www.strongloop.com",
   "keywords": [
@@ -79,9 +79,9 @@
   "dependencies": {
     "async": "^0.9.0",
     "debug": "^2.1.0",
-    "generator-create": "^0.1.6",
+    "generator-create": "^0.1.8",
     "generator-loopback": "1.x",
-    "generator-reactengine": "0.0.11",
+    "generator-reactengine": "0.0.13",
     "loopback-sdk-angular-cli": "2.x",
     "node-inspector": "~0.7.0",
     "nodefly-register": "~0.3.2",
